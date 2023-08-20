@@ -1,5 +1,0 @@
-{{#user}}
-Name: Parthj Shukla
-Skills: HTML, CSS, JS, Next.js,Node.js,Express.js,ReactJS
-Email: parthshukla9717830829@gmail.com
-{{/user}}
